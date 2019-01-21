@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	urlshort "github.com/hamdyjs/go_urlshort"
+	"github.com/hamdyjs/urlshort"
 )
 
 func main() {
